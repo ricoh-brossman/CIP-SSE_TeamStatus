@@ -1,0 +1,210 @@
+{
+  "circleOfExcellence": {
+    "SSE_PM": [
+      {
+        "lastName": "Rico",
+        "revenue": 146928
+      },
+      {
+        "lastName": "Anderson",
+        "revenue": 142106
+      },
+      {
+        "lastName": "Casino",
+        "revenue": 120515
+      },
+      {
+       "lastName": "Laricchia",
+       "revenue": 90590
+       },
+      {
+        "lastName": "Acord",
+        "revenue": 86638
+      },
+      {
+        "lastName": "Kirby",
+        "revenue": 81705
+      },
+       {
+       "lastName": "May",
+       "revenue": 54315
+       },
+      {
+        "lastName": "McCook",
+        "revenue": 52466
+      },
+      {
+        "lastName": "Abaravich",
+        "revenue": 44263
+      },
+      {
+        "lastName": "Vitto",
+        "revenue": 22751
+      }
+    ],
+    "total": 842177
+  },
+  "revenue": {
+    "date" : "2017-12",
+    "month": [
+      {
+        "date": "2017-04",
+        "actuals": {
+          "coreServices": 4584,
+          "miscServices": 4750,
+          "total": 9334
+        },
+        "monthVsPlan": {
+          "plan": 21162,
+          "MvsP": -11828,
+          "attainment": -44
+        },
+        "ytdVsPlan": {
+          "actual": 9334,
+          "plan": 62500,
+          "YTDvsP": -53166,
+          "attainment": -15
+        }
+      },
+      {
+        "date": "2017-05",
+        "actuals": {
+          "coreServices": 44648,
+          "miscServices": 0,
+          "total": 44648
+        },
+        "monthVsPlan": {
+          "plan": 22154,
+          "MvsP": 22494,
+          "attainment": 202
+        },
+        "ytdVsPlan": {
+          "actual": 53983,
+          "plan": 125000,
+          "YTDvsP": -71017,
+          "attainment": -43
+        }
+      },
+      {
+        "date": "2017-06",
+        "actuals": {
+          "coreServices": 11825,
+          "miscServices": 33525,
+          "total": 152053
+        },
+        "monthVsPlan": {
+          "plan": 77761,
+          "MvsP": 74292,
+          "attainment": 196
+        },
+        "ytdVsPlan": {
+          "actual": 206036,
+          "plan": 18750,
+          "YTDvsP": 18536,
+          "attainment":110
+        }
+      },
+      {
+        "date": "2017-07",
+        "actuals": {
+          "coreServices": 117396,
+          "miscServices": 25900,
+          "total": 143296
+        },
+        "monthVsPlan": {
+          "plan": 10581,
+          "MvsP": 132715,
+          "attainment": 1354
+        },
+        "ytdVsPlan": {
+          "actual": 349332,
+          "plan": 250000,
+          "YTDvsP": 99332,
+          "attainment": 140
+        }
+      },
+      {
+        "date": "2017-08",
+        "actuals": {
+          "coreServices": 27708,
+          "miscServices": 778,
+          "total": 35496
+        },
+        "monthVsPlan": {
+          "plan": 55607,
+          "MvsP": -20111,
+          "attainment": -64
+        },
+        "ytdVsPlan": {
+          "actual": 384828,
+          "plan": 312500,
+          "YTDvsP": 72328,
+          "attainment": 123
+        }
+      },
+      {
+        "date": "2017-09",
+        "actuals": {
+          "coreServices": 113400,
+          "miscServices": 18100,
+          "total": 131500
+        },
+        "monthVsPlan": {
+          "plan": 77761,
+          "MvsP": 53739,
+          "attainment": 169
+        },
+        "ytdVsPlan": {
+          "actual": 516328,
+          "plan": 375000,
+          "YTDvsP": 141328,
+          "attainment": 138
+        }
+      },
+      {
+        "date": "2017-10",
+        "actuals": {
+          "coreServices": 32176,
+          "miscServices": 11588,
+          "total": 43764
+        },
+        "monthVsPlan": {
+          "plan": 31744,
+          "MvsP": 12019,
+          "attainment": 138
+        },
+        "ytdVsPlan": {
+          "actual": 560092,
+          "plan": 437500,
+          "YTDvsP": 122592,
+          "attainment": 128
+        }
+      },
+      {
+        "date": "2017-11",
+        "actuals": {
+          "coreServices": 57926,
+          "miscServices": 5575,
+          "total": 63501
+        },
+        "monthVsPlan": {
+          "plan": 80461,
+          "MvsP": -16960,
+          "attainment": -79
+        },
+        "ytdVsPlan": {
+          "actual": 623593,
+          "plan": 500000,
+          "YTDvsP": 123593,
+          "attainment": 125
+        }
+      }
+    ],
+    "ytdTotals": {
+      "actualCoreServices": 516368,
+      "actualMiscServices": 107225,
+      "actualTotal": 623593,
+      "planTotal": 750000
+    }
+  }
+}
